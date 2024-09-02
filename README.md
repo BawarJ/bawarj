@@ -1,6 +1,6 @@
 ### Hi there I'm Bawar 👋
 
-I currently work as a researcher at the [Power Electronics, Machines and Control](https://www.nottingham.ac.uk/research/groups/pemc/home.aspx) research group at the University of Nottingham.
+I currently work as a researcher at the [Power Electronics, Machines and Control](https://www.nottingham.ac.uk/research/groups/pemc/home.aspx) research institute at the University of Nottingham.
 
 You can find some of my work below:  
 📜 [Publications](https://scholar.google.com/citations?user=hE_ZcYwAAAAJ)  
